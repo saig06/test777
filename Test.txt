@@ -1,1 +1,2 @@
 Hello all
+This is in feature1
